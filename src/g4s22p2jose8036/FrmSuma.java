@@ -96,7 +96,7 @@ public class FrmSuma extends javax.swing.JFrame {
                                 .addComponent(btncalcula)
                                 .addGap(18, 18, 18)
                                 .addComponent(btncerrar)))))
-                .addContainerGap(119, Short.MAX_VALUE))
+                .addContainerGap(79, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
